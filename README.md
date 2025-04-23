@@ -2,7 +2,7 @@
 # 📊 Data Entry Portal - Health Facility Reporting System
 
 Welcome to the **Data Entry Portal**, a web-based application built using R and Shiny for collecting, managing, and visualizing health data at the Health Facility level.
-![Map showing modern contraceptive use across Kenyan counties](ContraceptivePLOT.png)
+![Map showing modern contraceptive use across Kenyan counties](Portal.png)
 Access the Live Portal 🌐 [HERE](https://omondirobert.shinyapps.io/DataEntrySystem/)
 
 ## 🌟 Overview
